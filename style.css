@@ -137,6 +137,19 @@ label{
     bottom: 30px;
 }
 
+.media{
+    height: 30px;
+    width: 50%;
+    background-color: #00ffb7;
+    position: relative;
+    bottom: 30px;
+}
+
+.forte{
+    background-color: #0062ff;
+    width: 100%;
+}
+
 .parametro-senha-textos{
     display: flex;
     justify-content: space-between;
