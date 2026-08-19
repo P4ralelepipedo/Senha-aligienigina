@@ -78,7 +78,7 @@ body{
 .parametro-coluna__senha{
     display: flex;
     flex-direction: column;
-    justify-content: left;
+    justify-content: center;
 }
 .parametro-senha{
     width: 50%;
@@ -87,7 +87,7 @@ body{
 
 .parametro-senha-botoes{
     display: flex;
-    justify-content: left;
+    justify-content: center;
 }
 
 .parametro-senha__botao{
