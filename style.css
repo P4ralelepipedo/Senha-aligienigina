@@ -133,16 +133,19 @@ label{
 .fraca{
     width: 25%;
     background-color: #ff00d4; 
+    position: relative;
 }
 
 .media{
     width: 50%;
     background-color: #00ffb7;
+    position: relative;
 }
 
 .forte{
     background-color: #0062ff;
     width: 100%;
+    position: relative;
 }
 
 .parametro-senha-textos{
