@@ -133,16 +133,11 @@ label{
 .fraca{
     width: 25%;
     background-color: #ff00d4; 
-    position: relative;
-    bottom: 30px;
 }
 
 .media{
-    height: 30px;
     width: 50%;
     background-color: #00ffb7;
-    position: relative;
-    bottom: 30px;
 }
 
 .forte{
